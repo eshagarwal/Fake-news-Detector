@@ -241,3 +241,4 @@ if (len(company_name) > 0):
         # linechart(replist)
 else:
     st.error("Enter company's name first")
+hello
